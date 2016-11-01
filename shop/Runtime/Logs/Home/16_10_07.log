@@ -1,0 +1,4 @@
+[ 2016-10-07T11:20:07+08:00 ] 127.0.0.1 /TP/shop/index.php/Home/Goods/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+

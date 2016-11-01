@@ -1,0 +1,4 @@
+[ 2016-11-01T19:42:35+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/left
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : select * from sw_role where role_id=
+

@@ -1,0 +1,269 @@
+[ 2016-10-07T10:43:04+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T10:43:04+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T11:00:09+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:00:39+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:03:38+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:03:38+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:03:41+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/logout
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:03:44+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:03:44+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:04:09+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/logout
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:04:14+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/logout
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:05:01+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:05:04+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:30+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:32+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:06:33+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:07:20+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:07:22+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:28+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:32+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:33+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:34+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:37+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:38+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:40+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:08:41+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:09:41+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:09:43+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:09:44+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:09:45+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:09:47+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:09:49+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:12:03+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:12:15+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:13:52+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:13:54+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:14:15+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:17:26+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Goods/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:17:32+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Goods/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:18:42+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Goods/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:18:44+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Goods/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:18:44+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Goods/showlist
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:27:27+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:33:32+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:33:34+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:33:35+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:33:36+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:33:37+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:34:56+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:34:59+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:35:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:35:11+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL璇彞 ] : select role_auth_ac,mg_role_id from sw_manager a join sw_role b on a.mg_role_id=b.role_id where a.mg_id=
+
+[ 2016-10-07T11:55:31+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Goods/cate
+ERR: 闈炴硶鎿嶄綔:cate
+
+[ 2016-10-07T17:27:52+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T17:27:52+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T17:35:40+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T17:35:40+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T17:48:50+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T17:48:51+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+
+[ 2016-10-07T17:48:54+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Role/showlist
+ERR: 1146:Table 'shop.sw_table' doesn't exist
+ [ SQL璇彞 ] : SHOW COLUMNS FROM `sw_table`
+
+[ 2016-10-07T17:49:22+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Role/showlist
+ERR: 1146:Table 'shop.sw_table' doesn't exist
+ [ SQL璇彞 ] : SHOW COLUMNS FROM `sw_table`
+
+[ 2016-10-07T19:58:23+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Role/distribute/role_id/1
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2016-10-07T19:59:02+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Role/distribute/role_id/1
+ERR: SQLSTATE[HY000] [2002] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+
+[ 2016-10-07T20:38:32+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Role/distribute/role_id/1
+ERR: Syntax Error in template "D:/wamp/www/TP/shop/Admin/View\Role\distribute.html"  on line 8 "li{list-style:none;}"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-10-07T21:44:10+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 闈炴硶鎿嶄綔:css
+

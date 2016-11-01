@@ -1,0 +1,39 @@
+[ 2016-10-05T16:51:17+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Manager/login
+ERR: Think\Model:checkNamePwd方法不存在！
+
+[ 2016-10-05T17:42:18+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:42:19+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:51:58+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:51:58+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:53:29+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:53:29+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:53:35+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:53:35+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:53:38+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:53:38+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:54:28+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-10-05T17:54:28+08:00 ] 127.0.0.1 /TP/shop/index.php/Admin/Index/css/admin.css
+ERR: 非法操作:css
+
